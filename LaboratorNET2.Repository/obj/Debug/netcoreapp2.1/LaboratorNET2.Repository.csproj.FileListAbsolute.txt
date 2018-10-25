@@ -1,0 +1,5 @@
+C:\Users\Octav\Desktop\LaboratorNET2\LaboratorNET2.Repository\bin\Debug\netcoreapp2.1\LaboratorNET2.dll
+C:\Users\Octav\Desktop\LaboratorNET2\LaboratorNET2.Repository\obj\Debug\netcoreapp2.1\LaboratorNET2.Repository.csprojAssemblyReference.cache
+C:\Users\Octav\Desktop\LaboratorNET2\LaboratorNET2.Repository\obj\Debug\netcoreapp2.1\LaboratorNET2.Repository.csproj.CoreCompileInputs.cache
+C:\Users\Octav\Desktop\LaboratorNET2\LaboratorNET2.Repository\obj\Debug\netcoreapp2.1\LaboratorNET2.Repository.AssemblyInfoInputs.cache
+C:\Users\Octav\Desktop\LaboratorNET2\LaboratorNET2.Repository\obj\Debug\netcoreapp2.1\LaboratorNET2.Repository.AssemblyInfo.cs

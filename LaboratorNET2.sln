@@ -1,0 +1,31 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio 15
+VisualStudioVersion = 15.0.28010.2041
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "LaboratorNET2", "LaboratorNET2\LaboratorNET2.csproj", "{4BD7B921-7D9B-40E1-BD3B-53EFC08F3F10}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "LaboratorNET2.Repository", "LaboratorNET2.Repository\LaboratorNET2.Repository.csproj", "{E17D21B0-970A-4ED2-8210-F290A489956A}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{4BD7B921-7D9B-40E1-BD3B-53EFC08F3F10}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{4BD7B921-7D9B-40E1-BD3B-53EFC08F3F10}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{4BD7B921-7D9B-40E1-BD3B-53EFC08F3F10}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{4BD7B921-7D9B-40E1-BD3B-53EFC08F3F10}.Release|Any CPU.Build.0 = Release|Any CPU
+		{E17D21B0-970A-4ED2-8210-F290A489956A}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{E17D21B0-970A-4ED2-8210-F290A489956A}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{E17D21B0-970A-4ED2-8210-F290A489956A}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{E17D21B0-970A-4ED2-8210-F290A489956A}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {EF380A1C-B69E-4E0A-BF54-67FF8FF3E14A}
+	EndGlobalSection
+EndGlobal
